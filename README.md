@@ -2,4 +2,7 @@ Basic boilerplate to start future projects.
 
 Ah Ah Ah j'ai eu ton code ;)
 
-Toi t'es un petit joueur! 
+Toi t'es un petit joueur!  
+
+Non non un grand joueur :) 
+
